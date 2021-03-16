@@ -1,3 +1,3 @@
 # ProposalRafi
-[Proposal Tugas Akhir](bit.ly/propTugasAkhir)
+[Proposal Tugas Akhir](bit.ly/propTugasAkhir)  
 [Proposal PKM](bit.ly/propPKM)
